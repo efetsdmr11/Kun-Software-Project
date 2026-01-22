@@ -38,7 +38,3 @@ int main()
         cout << "There is no prime number between " << x << " and " << x + L << endl;
     }  
 }
-    
-
-
-  
